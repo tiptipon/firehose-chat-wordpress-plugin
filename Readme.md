@@ -4,7 +4,7 @@
 
 ### Manual Installation
 
-1. [Download latest release](https://github.com/mysterioustrousers/firehose-chat-wordpress-plugin/archive/master.zip)
+1. [Download latest release](https://github.com/mysterioustrousers/firehose-chat-wordpress-plugin/releases)
 2. Open the "Upload Plugin" page of your Wordpress installation (URL similar to http://your-wordpress.com/wp-admin/plugin-install.php?tab=upload)
 3. Upload the `.zip` file that you just downloaded
 4. Activate the plugin in the Plugins section of the admin interface
