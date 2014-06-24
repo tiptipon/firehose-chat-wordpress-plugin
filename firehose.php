@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Firehose Chat Plugin
-Plugin URI: http://wordpress.org/extend/plugins/googleanalytics/
+Plugin URI: https://github.com/mysterioustrousers/firehose-chat-wordpress-plugin
 Description: Enables FirehoseChat on all pages.
 Version: 1.0.0
 Author: Mysterious Trousers
