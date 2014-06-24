@@ -16,10 +16,12 @@ if (!defined('WP_PLUGIN_URL'))
       define('WP_PLUGIN_URL', WP_CONTENT_URL.'/plugins');
 if (!defined('WP_PLUGIN_DIR'))
       define('WP_PLUGIN_DIR', WP_CONTENT_DIR.'/plugins');
+if (!defined('FIREHOSE_PLUGIN_DIR'))
+      define('FIREHOSE_PLUGIN_DIR', plugin_dir_path(__FILE__));
 
 
 function activate_firehose_chat() {
-  add_option('firehose_product_id', 'UA-0000000-0');
+  add_option('firehose_product_id', '');
 }
 
 function deactive_firehose_chat() {
@@ -35,7 +37,7 @@ function admin_menu_firehose_chat() {
 }
 
 function options_page_firehose_chat() {
-  include(WP_PLUGIN_DIR.'/firehose-chat-plugin/options.php');
+  include(FIREHOSE_PLUGIN_DIR.'/options.php');
 }
 
 function firehose_chat() {
