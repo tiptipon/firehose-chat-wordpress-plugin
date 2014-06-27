@@ -37,7 +37,7 @@ Check out our apps for iOS and OS X
 
 == Installation ==
 
-1. Register for an account at [Firehosechat.com](http://firehosechat.com)
+1. Create a Firehose Chat account by downloading the Mac or iOS apps at [Firehosechat.com](http://firehosechat.com)
 1. Install the plugin through the Wordpress plugin directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add your product token in the settings, found under Settings > Firehose Chat
