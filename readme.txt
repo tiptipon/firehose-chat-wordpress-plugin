@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== Firehose Chat ===
 Contributors: alexlafroscia
 Donate link: http://firehosechat.com/
 Tags: chat, firehose, customer, support
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
+Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
